@@ -28,7 +28,7 @@ foreach (var course in result)
     Console.WriteLine(course);
 }
 
-// Get first student having Ecology course
+// Get first student having Ecology course (used GroupJoin, Any, First)
 
 var result1 = students.GroupJoin(courses,
     student => student.Id,
@@ -43,11 +43,20 @@ Console.WriteLine(result1);
 
 var range = Enumerable.Range(-1, 10);
 
-var range2 = Enumerable.Range(20, 10);
+var range2 = Enumerable.Range(2, 10);
 
 var zippedRanges = range.Zip(range2, (e, e1) => e * e1);
 
 foreach (var item in zippedRanges)
+{
+    Console.WriteLine(item);
+}
+
+Console.WriteLine();
+
+var exceptedRanges = range2.Except(range);
+
+foreach (var item in exceptedRanges)
 {
     Console.WriteLine(item);
 }
