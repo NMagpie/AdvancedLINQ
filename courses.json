@@ -1,0 +1,112 @@
+[
+    {
+      "Id": 101,
+      "CourseName": "Introduction to Programming",
+      "StudentId": 1
+    },
+    {
+      "Id": 102,
+      "CourseName": "Database Management",
+      "StudentId": 1
+    },
+    {
+      "Id": 103,
+      "CourseName": "Calculus I",
+      "StudentId": 4
+    },
+    {
+      "Id": 104,
+      "CourseName": "Physics I",
+      "StudentId": 5
+    },
+    {
+      "Id": 105,
+      "CourseName": "Algorithms",
+      "StudentId": 6
+    },
+    {
+      "Id": 106,
+      "CourseName": "Software Engineering",
+      "StudentId": 7
+    },
+    {
+      "Id": 107,
+      "CourseName": "Genetics",
+      "StudentId": 8
+    },
+    {
+      "Id": 108,
+      "CourseName": "Linear Algebra",
+      "StudentId": 9
+    },
+    {
+      "Id": 109,
+      "CourseName": "Quantum Mechanics",
+      "StudentId": 10
+    },
+    {
+      "Id": 110,
+      "CourseName": "Data Structures",
+      "StudentId": 11
+    },
+    {
+      "Id": 111,
+      "CourseName": "Chemistry I",
+      "StudentId": 12
+    },
+    {
+      "Id": 112,
+      "CourseName": "Ecology",
+      "StudentId": 13
+    },
+    {
+      "Id": 113,
+      "CourseName": "Number Theory",
+      "StudentId": 14
+    },
+    {
+      "Id": 114,
+      "CourseName": "Electromagnetism",
+      "StudentId": 15
+    },
+    {
+      "Id": 115,
+      "CourseName": "Operating Systems",
+      "StudentId": 16
+    },
+    {
+      "Id": 116,
+      "CourseName": "Differential Equations",
+      "StudentId": 17
+    },
+    {
+      "Id": 117,
+      "CourseName": "Biochemistry",
+      "StudentId": 18
+    },
+    {
+      "Id": 118,
+      "CourseName": "Statistics",
+      "StudentId": 19
+    },
+    {
+      "Id": 119,
+      "CourseName": "Machine Learning",
+      "StudentId": 20
+    },
+    {
+      "Id": 120,
+      "CourseName": "Computer Networks",
+      "StudentId": 1
+    },
+    {
+        "Id": 113,
+        "CourseName": "Number Theory",
+        "StudentId": 5
+    },
+    {
+        "Id": 112,
+        "CourseName": "Ecology",
+        "StudentId": 19
+    }
+  ]

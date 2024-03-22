@@ -1,0 +1,122 @@
+[
+    {
+      "Id": 1,
+      "Name": "John Doe",
+      "Age": 20,
+      "Major": "Computer Science"
+    },
+    {
+      "Id": 2,
+      "Name": "Alice Smith",
+      "Age": 21,
+      "Major": "Engineering"
+    },
+    {
+      "Id": 3,
+      "Name": "Emily Johnson",
+      "Age": 22,
+      "Major": "Biology"
+    },
+    {
+      "Id": 4,
+      "Name": "Michael Brown",
+      "Age": 19,
+      "Major": "Mathematics"
+    },
+    {
+      "Id": 5,
+      "Name": "Sophia Wilson",
+      "Age": 20,
+      "Major": "Physics"
+    },
+    {
+      "Id": 6,
+      "Name": "Daniel Martinez",
+      "Age": 21,
+      "Major": "Computer Science"
+    },
+    {
+      "Id": 7,
+      "Name": "Olivia Anderson",
+      "Age": 22,
+      "Major": "Engineering"
+    },
+    {
+      "Id": 8,
+      "Name": "Ethan Taylor",
+      "Age": 19,
+      "Major": "Biology"
+    },
+    {
+      "Id": 9,
+      "Name": "Isabella Thomas",
+      "Age": 20,
+      "Major": "Mathematics"
+    },
+    {
+      "Id": 10,
+      "Name": "Mason Hernandez",
+      "Age": 21,
+      "Major": "Physics"
+    },
+    {
+      "Id": 11,
+      "Name": "Liam Moore",
+      "Age": 22,
+      "Major": "Computer Science"
+    },
+    {
+      "Id": 12,
+      "Name": "Ava Garcia",
+      "Age": 19,
+      "Major": "Engineering"
+    },
+    {
+      "Id": 13,
+      "Name": "Emma Lopez",
+      "Age": 20,
+      "Major": "Biology"
+    },
+    {
+      "Id": 14,
+      "Name": "Noah Martinez",
+      "Age": 21,
+      "Major": "Mathematics"
+    },
+    {
+      "Id": 15,
+      "Name": "William Clark",
+      "Age": 22,
+      "Major": "Physics"
+    },
+    {
+      "Id": 16,
+      "Name": "James Rodriguez",
+      "Age": 19,
+      "Major": "Computer Science"
+    },
+    {
+      "Id": 17,
+      "Name": "Charlotte Hall",
+      "Age": 20,
+      "Major": "Engineering"
+    },
+    {
+      "Id": 18,
+      "Name": "Alexander Young",
+      "Age": 21,
+      "Major": "Biology"
+    },
+    {
+      "Id": 19,
+      "Name": "Michael Turner",
+      "Age": 22,
+      "Major": "Mathematics"
+    },
+    {
+      "Id": 20,
+      "Name": "Sophia Adams",
+      "Age": 19,
+      "Major": "Physics"
+    }
+  ]
